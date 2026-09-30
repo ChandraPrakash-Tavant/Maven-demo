@@ -3,7 +3,7 @@ package com.example;
 public class App {
 
     public static String greet() {
-        return "Hello from Jenkins CI pipeline!";
+        return "Hello from Jenkins CI pipeline v3!";
     }
 
     public static void main(String[] args) {

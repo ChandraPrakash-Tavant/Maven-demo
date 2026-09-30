@@ -7,6 +7,6 @@ class AppTest {
 
     @Test
     void greetReturnsMessage() {
-        assertEquals("Hello from Jenkins CI pipeline!", App.greet());
+        assertEquals("Hello from Jenkins CI pipeline v3!", App.greet());
     }
 }
